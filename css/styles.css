@@ -1,0 +1,159 @@
+/* 
+ARELY MARTINEZ 
+
+OCT 31 2022 11:39PM 
+
+ABOUT YOU WITH STYLE 
+
+THIS PROGRAM WILL MAKE IT POSSIBLE FOR A USER TO 
+OPEN A LIVE SERVER WHERE THE USER CAN THEN VIEW 
+A PAGE WITH INFORMATION ABOUT ME. NO PEER REVIEW
+WAS NEEDED.
+*/
+
+/* <img src="images/myimage.jpg"> */
+/* This qill target all the elemnts with the tag */
+body{
+    background-image: url("/images/ci.webp");
+}
+li {
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* This qill target all the elemnts with the tag */
+p{
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* To do a class selector we start with .(name {} */
+.music{
+    font-size: 0px;
+}
+
+.bot{
+    text-align: center;
+}
+
+.a {
+    style="
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px clear;  
+    background-color: ::-ms-clear; 
+        
+    "
+    font-size: 0px;
+    color::-ms-clear;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.b {
+    style="
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px ::-ms-clear;  
+    background-color: ::-ms-clear; 
+    font-size: 0px;
+        
+    "
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.top {
+    style="
+    border-top-style: none;
+        border-right-style:solid;
+        border-bottom-style:solid;
+        border-left-style:solid;
+        border-radius: 10px;
+        font-size: 30px;
+        text-align: center;
+        vertical-align: middle;
+        
+    "
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.abtMe {
+    style="
+        text-shadow: 52px 22px 25px lightblue;
+        border-top-style: dashed;
+        border-right-style:solid;
+        border-bottom-style:dashed;
+        border-left-style:solid;
+        border-radius: 5px;
+    "
+
+    color:black;
+    font-size: 40px;
+    border-width:  5px;
+    text-align: center ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+} 
+
+.img {
+    style="width:150px;
+    height:170px;margin-left:7px; border: 
+    5px solid black;"
+}
+
+.name {
+    
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.aboutme {
+    style="
+        background-color: white;
+        outline: black dotted 5px;
+        width: 1300px;
+        border: 5px dotted black;
+        padding: 30px;
+        margin: 10px;
+        border-radius: 5px;
+        
+    "
+    color:black;
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.intrest {
+    color:black;
+    font-size: 30px;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-left: 6px solid black;
+    background-color: clear;
+}
+
+/* To do a an id selector we start with #(name) */
+#onlyMe {
+    font-size: 3em;
+    color: darkgreen;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center
+
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
